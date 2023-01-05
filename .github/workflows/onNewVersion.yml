@@ -39,26 +39,26 @@ jobs:
         run: |
           tree ${{ github.workspace }}
 
-      - name: 📂 Upload klvOverlaySdk to ImpleoTV FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.1.0
-        with:
-          server: ftp.impleotv.com
-          username: sw@impleotv.com
-          password: ${{ secrets.FTP_IMPLEO_SW }}
-          local-dir: ./dist/
-          server-dir: klvoverlaysdk/
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/node_modules/**     
-            /images/**           
-            *.txt
-            *.lic
-            *.pdf
-            *.md
-            *.js
-            *.mustache
-            *.json
+      # - name: 📂 Upload klvOverlaySdk to ImpleoTV FTP
+      #   uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      #   with:
+      #     server: ftp.impleotv.com
+      #     username: sw@impleotv.com
+      #     password: ${{ secrets.FTP_IMPLEO_SW }}
+      #     local-dir: ./dist/
+      #     server-dir: klvoverlaysdk/
+      #     exclude: |
+      #       **/.git*
+      #       **/.git*/**
+      #       **/node_modules/**     
+      #       /images/**           
+      #       *.txt
+      #       *.lic
+      #       *.pdf
+      #       *.md
+      #       *.js
+      #       *.mustache
+      #       *.json
 
 
 
