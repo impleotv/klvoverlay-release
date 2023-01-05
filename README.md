@@ -11,19 +11,18 @@
 <div align="center">
 	<font color="blue">STANAG 4609 OverlayControl.</font>
 </div>
-
-![Klv Overlay Control](/images/OverlayPic.jpg)
-
+![Klv Overlay Control](images/OverlayPic.jpg)
 
 
-## Download link
+
+## Download links
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvOverlay SDK** |  master | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/klvoverlaySdk.zip) | 
+| **KlvOverlay SDK** |  v3.0.0 | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/klvoverlaySdk.zip) | 
 
 
-*Released on Thu, 5 Jan, 16:58 GMT+2*
+*Released on Thu, 5 Jan, 17:08 GMT+2*
 
 
 ## License
@@ -31,12 +30,11 @@
 *No license is needed for application evaluation - it will work in demo mode (with some restrictions).*
 
 **KlvOverlayControl** is a node-locked software, so you have to get a license (after purchasing the SW) in order to lift demo restrictions. Please install it and fill out an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
-You can see the ***Node Info*** in the demo app (Menu->Settings).
 
 
 You'll get back a **license** file and a **key**.
 
 ## System Requirements
 
-OS: Windows 10, 64 bit.
+OS: Windows 10 64 bit.
 
