@@ -14,6 +14,7 @@
 
 ![Klv Overlay Control](images/OverlayPic.jpg)
 
+More info on the [Klv Overlay Control Sdk](https://impleotv.com/content/klvoverlaycontrol/help/index.html)
 
 
 ## Download links
@@ -23,7 +24,7 @@
 | **KlvOverlay SDK** |  master | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/SetupKlvOverlayCtrl.zip) | 
 
 
-*Released on Thu, 5 Jan, 17:19 GMT+2*
+*Released on Thu, 5 Jan, 17:24 GMT+2*
 
 
 ## License
