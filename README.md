@@ -11,6 +11,7 @@
 <div align="center">
 	<font color="blue">STANAG 4609 OverlayControl.</font>
 </div>
+
 ![Klv Overlay Control](images/OverlayPic.jpg)
 
 
@@ -19,10 +20,11 @@
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvOverlay SDK** |  v3.0.0 | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/klvoverlaySdk.zip) | 
+| **KlvOverlay SDK** |  v3.0.0 | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/SetupKlvOverlayCtrl.zip
+.zip) | 
 
 
-*Released on Thu, 5 Jan, 17:08 GMT+2*
+*Released on Thu, 5 Jan, 17:14 GMT+2*
 
 
 ## License
