@@ -20,8 +20,7 @@
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvOverlay SDK** |  v3.0.0 | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/SetupKlvOverlayCtrl.zip
-.zip) | 
+| **KlvOverlay SDK** |  v3.0.0 | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/SetupKlvOverlayCtrl.zip) | 
 
 
 *Released on Thu, 5 Jan, 17:14 GMT+2*
