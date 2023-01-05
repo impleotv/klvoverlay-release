@@ -20,10 +20,10 @@
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvOverlay SDK** |  v3.0.0 | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/SetupKlvOverlayCtrl.zip) | 
+| **KlvOverlay SDK** |  master | [Klv Overlay Control SDK.zip](https://github.com/impleotv/klvoverlay-release/releases/latest/download/SetupKlvOverlayCtrl.zip) | 
 
 
-*Released on Thu, 5 Jan, 17:14 GMT+2*
+*Released on Thu, 5 Jan, 17:19 GMT+2*
 
 
 ## License
@@ -31,7 +31,7 @@
 *No license is needed for application evaluation - it will work in demo mode (with some restrictions).*
 
 **KlvOverlayControl** is a node-locked software, so you have to get a license (after purchasing the SW) in order to lift demo restrictions. Please install it and fill out an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
-
+You can obtain the **nodeinfo** string by running the demo app (Menu->Settings).
 
 You'll get back a **license** file and a **key**.
 
